@@ -1,18 +1,17 @@
 [COLOR green]Addon:[/COLOR] CineRoom
 [COLOR green]Desenvolvedor:[/COLOR] Gael
 
-[COLOR red]Dicas:[/COLOR]
+[COLOR red]IMPORTANTE:[/COLOR]
+[COLOR yellow]API TMDb[/COLOR]: Recomenda-se utilizar sua própria API TMDb nas configurações do addon para melhorar a experiência.
 
-[COLOR yellow]API TMDb:[/COLOR] Recomenda-se utilizar sua própria API TMDb nas configurações do addon para melhorar a experiência.
+[COLOR yellow]Filmes por Página[/COLOR]: Por padrão e recomendação, mantenha apenas de 15 a 20 filmes por página para facilitar a navegação.
 
-[COLOR yellow]Filmes por Página:[/COLOR] Por padrão e recomendação, mantenha apenas de 15 a 20 filmes por página para facilitar a navegação.
+[COLOR yellow]Threads[/COLOR]: Ajuste o número de threads com cuidado. Use valores de 5 a 7 em boxes mais simples e valores maiores em dispositivos mais potentes. Um ajuste inadequado pode levar a problemas de desempenho.
 
-[COLOR yellow]Threads:[/COLOR] Ajuste o número de threads com cuidado. Use valores de 5 a 7 em boxes mais simples e valores maiores em dispositivos mais potentes. Um ajuste inadequado pode levar a problemas de desempenho.
+[COLOR yellow]Aba 'Aleatórios'[/COLOR]: Caso perca um filme na aba 'Aleatórios', utilize a opção 'Buscar Filmes' para encontrá-lo novamente.
 
-[COLOR yellow]Aba 'Aleatórios': Caso perca um filme na aba 'Aleatórios', utilize a opção 'Buscar Filmes' para encontrá-lo novamente.
+[COLOR yellow]Busca por Filmes em 4K[/COLOR]: A aba 'Buscar Filmes' mostrará resultados em 4K, contanto que o filme esteja disponível nessa qualidade.
 
-[COLOR yellow]Busca por Filmes em 4K:[/COLOR] A aba 'Buscar Filmes' mostrará resultados em 4K, contanto que o filme esteja disponível nessa qualidade.
+                              Agradecemos por sua paciência e feedback. Aproveite a experiência!
 
-Agradecemos por sua paciência e feedback. Aproveite a experiência!
-
-Para sugestões ou problemas, entre em contato: [COLOR blue]cineroom.ofc@gmail.com[/COLOR]
+                       Para sugestões ou problemas, entre em contato: [COLOR blue]cineroom.ofc@gmail.com[/COLOR]
