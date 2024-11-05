@@ -1,20 +1,19 @@
-                                           [COLOR yellow]Sejam muito bem-vindos![/COLOR]
+[COLOR green]Addon:[/COLOR] CineRoom
+[COLOR green]Versão:[/COLOR] 1.1
+[COLOR green]Desenvolvedor:[/COLOR] Gael
 
-                                              [COLOR green]Addon:[/COLOR] CineRoom
-                                              [COLOR green]Versão:[/COLOR] 1.1
-                                              [COLOR green]Desenvolvedor:[/COLOR] Gael
+[COLOR red]Dicas:[/COLOR]
 
-[COLOR red]Dicas[/COLOR]: 
+API TMDb: Recomenda-se utilizar sua própria API TMDb nas configurações do addon para melhorar a experiência.
 
-- Recomendavel utilizar sua propria 'API TMDb', nas configuraçoes no addon
-- Por padrão e por recomendação, Deixe apenas de 15 a 20 filmes por pagina
-- Ajuste o 'Numero de threads' com cuidado. Valores de 5/7 em box fracas e maiories em box superiores
-- Caso perca um filme na Aba 'Aleatorios' utilize a opção 'Buscar Filmes'
-- A Aba 'Buscar Filmes' Mostrara resultados em '4K', contanto que o filme esteja disponivel em 4K
+Número de Filmes por Página: Por padrão e por recomendação, deixe apenas de 15 a 20 filmes por página para facilitar a navegação.
 
+Número de Threads: Ajuste o número de threads com cuidado. Use valores de 5 a 7 em boxes fracas e valores maiores em boxes superiores. Um ajuste inadequado pode levar a problemas de desempenho.
+
+Aba 'Aleatórios': Caso perca um filme na aba 'Aleatórios', utilize a opção 'Buscar Filmes' para encontrá-lo novamente.
+
+Busca por Filmes em 4K: A aba 'Buscar Filmes' mostrará resultados em 4K, contanto que o filme esteja disponível nessa qualidade.
 
 Agradecemos por sua paciência e feedback. Aproveite a experiência!
 
 Para sugestões ou problemas, entre em contato: [COLOR blue]cineroom.ofc@gmail.com[/COLOR]
-
-
