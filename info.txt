@@ -1,5 +1,4 @@
-[COLOR green]Addon:[/COLOR] CineRoom
-[COLOR green]Desenvolvedor:[/COLOR] Gael
+[COLOR green]Addon:[/COLOR] CineRoom / [COLOR green]Desenvolvedor:[/COLOR] Gael / [COLOR green]Versão:[/COLOR] 1.0
 
 [COLOR red]IMPORTANTE:[/COLOR]
 
