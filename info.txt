@@ -1,4 +1,4 @@
-[COLOR green]Addon:[/COLOR] CineRoom / [COLOR green]Desenvolvedor:[/COLOR] Gael / [COLOR green]Versão:[/COLOR] 1.0
+     [COLOR blue]Addon:[/COLOR] CineRoom  |  [COLOR yellow]Desenvolvedor:[/COLOR] Gael  |  [COLOR red]Versão:[/COLOR] 1.0
 
 [COLOR red]IMPORTANTE:[/COLOR]
 
@@ -7,6 +7,10 @@
 [COLOR yellow]Paginação[/COLOR]: Por padrão e recomendação, mantenha apenas de 15 a 20 filmes por página para facilitar a navegação.
 
 [COLOR yellow]Threads[/COLOR]: Ajuste o número de threads com cuidado. Use valores de 5 a 7 em boxes mais simples e valores maiores em dispositivos mais potentes. Um ajuste inadequado pode levar a problemas de desempenho.
+
+[COLOR yellow]Imagem de fundo[/COLOR]: Opção para habilitar e desabilitar a fanart.
+
+[COLOR yellow]Players[/COLOR]: Escolha entre reproduzir com elementum ou Jacktorr
 
 
                           Agradecemos por sua paciência e feedback. Aproveite a experiência!
