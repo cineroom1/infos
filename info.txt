@@ -1,4 +1,4 @@
-     [COLOR blue]Addon:[/COLOR] CineRoom  |  [COLOR yellow]Desenvolvedor:[/COLOR] Gael  |  [COLOR red]Versão:[/COLOR] 1.0
+       [COLOR yellow]Desenvolvedor[/COLOR]: Gael  |  [COLOR red]Versão:[/COLOR] 1.0  | | [COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
 
 [COLOR red]IMPORTANTE:[/COLOR]
 
