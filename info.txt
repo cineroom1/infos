@@ -1,6 +1,8 @@
-       [COLOR yellow]Desenvolvedor[/COLOR]: Gael  |  [COLOR red]Versão:[/COLOR] 1.0  | | [COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
+[COLOR yellow]Desenvolvedor[/COLOR]: Gael
+[COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
 
-[COLOR red]IMPORTANTE:[/COLOR]
+                                  
+                                         [COLOR red]IMPORTANTE:[/COLOR]
 
 [COLOR yellow]API TMDb[/COLOR]: Recomenda-se utilizar sua própria API TMDb nas configurações do addon para melhorar a experiência.
 
@@ -15,4 +17,4 @@
 
                           Agradecemos por sua paciência e feedback. Aproveite a experiência!
 
-                    Para sugestões ou problemas, entre em contato: [COLOR blue]cineroom.ofc@gmail.com[/COLOR]
+                Para sugestões ou problemas, entre em contato: [COLOR blue]cineroom.ofc@gmail.com[/COLOR]
