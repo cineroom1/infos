@@ -1,8 +1,8 @@
-[COLOR yellow]Desenvolvedor[/COLOR]: Gael
-[COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
+[COLOR yellow]Desenvolvedor[/COLOR]: Gael  |  [COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
+
 
                                   
-                                         [COLOR red]IMPORTANTE:[/COLOR]
+                                                      [COLOR red]IMPORTANTE:[/COLOR]
 
 [COLOR yellow]API TMDb[/COLOR]: Recomenda-se utilizar sua própria API TMDb nas configurações do addon para melhorar a experiência.
 
