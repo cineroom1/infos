@@ -1,20 +1,18 @@
-[COLOR yellow]Desenvolvedor[/COLOR]: Gael  |  [COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
+[COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
+[COLOR blue]Desenvolvedor[/COLOR]: Gael
+[COLOR blue]Versão[/COLOR]: 1.2
 
+[COLOR yellow]Changelog[/COLOR]:
 
-                                  
-                                                      [COLOR red]IMPORTANTE:[/COLOR]
+Gêneros automáticos: Agora, a categoria "Gêneros" carrega filmes automaticamente ao clicar no gênero, sem necessidade de criar arquivos JSON separados para cada um.
 
-[COLOR yellow]API TMDb[/COLOR]: Recomenda-se utilizar sua própria API TMDb nas configurações do addon para melhorar a experiência.
+Pesquisa por Estúdios: Adicionada uma nova funcionalidade de pesquisa que permite ao usuário pesquisar filmes por estúdios.
 
-[COLOR yellow]Paginação[/COLOR]: Por padrão e recomendação, mantenha apenas de 15 a 20 filmes por página para facilitar a navegação.
+Categoria Populares: Criada a nova categoria "Populares", que exibe filmes populares e atualiza automaticamente a cada 7 dias.
 
-[COLOR yellow]Threads[/COLOR]: Ajuste o número de threads com cuidado. Use valores de 5 a 7 em boxes mais simples e valores maiores em dispositivos mais potentes. Um ajuste inadequado pode levar a problemas de desempenho.
+Aba "Configurações": Adicionada a aba "Configurações" ao menu inicial do addon.
 
-[COLOR yellow]Imagem de fundo[/COLOR]: Opção para habilitar e desabilitar a fanart.
-
-[COLOR yellow]Players[/COLOR]: Escolha entre reproduzir com elementum ou Jacktorr
-
-
-                          Agradecemos por sua paciência e feedback. Aproveite a experiência!
-
-                Para sugestões ou problemas, entre em contato: [COLOR blue]cineroom.ofc@gmail.com[/COLOR]
+Como atualizar seu addon:
+Baixe a versão mais recente do seu addon.
+Substitua os arquivos antigos no diretório de addons do Kodi com os novos arquivos.
+Reinicie o Kodi para garantir que as mudanças sejam aplicadas.
