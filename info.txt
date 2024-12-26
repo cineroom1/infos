@@ -1,18 +1,14 @@
 [COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
 [COLOR blue]Desenvolvedor[/COLOR]: Gael
-[COLOR blue]Versão[/COLOR]: 1.2
+[COLOR blue]Versão[/COLOR]: 3.0
+[COLOR yellow]Doação[/COLOR]: cineroom.ofc@gmail.com
 
-[COLOR yellow]Changelog[/COLOR]:
 
-Gêneros automáticos: Agora, a categoria "Gêneros" carrega filmes automaticamente ao clicar no gênero, sem necessidade de criar arquivos JSON separados para cada um.
 
-Pesquisa por Estúdios: Adicionada uma nova funcionalidade de pesquisa que permite ao usuário pesquisar filmes por estúdios.
 
-Categoria Populares: Criada a nova categoria "Populares", que exibe filmes populares e atualiza automaticamente a cada 7 dias.
+[COLOR yellow]Changelog[/COLOR] V3.0:
 
-Aba "Configurações": Adicionada a aba "Configurações" ao menu inicial do addon.
+- Nova aba para series.
+- Novo modo de Pesquisa para series e animes.
+- Adição da dependencia "studio icons - white" para aperecer a logo dos studios
 
-Como atualizar seu addon:
-Baixe a versão mais recente do seu addon.
-Substitua os arquivos antigos no diretório de addons do Kodi com os novos arquivos.
-Reinicie o Kodi para garantir que as mudanças sejam aplicadas.
