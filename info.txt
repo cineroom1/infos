@@ -1,14 +1,14 @@
-[COLOR blue]Telegram[/COLOR]: t.me/Cine_Room
 [COLOR blue]Desenvolvedor[/COLOR]: Gael
-[COLOR blue]Versão[/COLOR]: 3.0
+[COLOR blue]Versão[/COLOR]: 3.1
 [COLOR yellow]Doação[/COLOR]: cineroom.ofc@gmail.com
+[COLOR blue]Telegram[/COLOR]: t.me/Cineroom1
 
 
 
 
-[COLOR yellow]Changelog[/COLOR] V3.0:
+[COLOR yellow]Changelog[/COLOR] V3.1:
 
-- Nova aba para series.
-- Novo modo de Pesquisa para series e animes.
-- Adição da dependencia "studio icons - white" para aperecer a logo dos studios
+- Adicionada opçao de escolher series por estudio
+- Adição de ais infos nos filmes / Séries
+- Melhorias gerais
 
